@@ -1,0 +1,8 @@
+company,name,nse_symbol,screener_code,business_model,ownership,peer_group
+ONGC,Oil and Natural Gas Corporation Ltd.,ONGC,ONGC,Upstream (E&P),PSU (Govt of India majority),Pure Energy
+IOC,Indian Oil Corporation Ltd.,IOC,IOC,Refining & Marketing (Downstream),PSU (Govt of India majority),Pure Energy
+BPCL,Bharat Petroleum Corporation Ltd.,BPCL,BPCL,Refining & Marketing (Downstream),PSU (Govt of India majority),Pure Energy
+HPCL,Hindustan Petroleum Corporation Ltd.,HINDPETRO,HINDPETRO,Refining & Marketing (Downstream),PSU (Govt of India majority),Pure Energy
+GAIL,GAIL (India) Ltd.,GAIL,GAIL,Gas Transmission & Distribution,PSU (Govt of India majority),Pure Energy
+OIL,Oil India Ltd.,OIL,OIL,Upstream (E&P),PSU (Govt of India majority),Pure Energy
+RELIANCE,Reliance Industries Ltd.,RELIANCE,RELIANCE,"Diversified (O2C, Retail, Digital)","Private, widely held",Diversified Benchmark

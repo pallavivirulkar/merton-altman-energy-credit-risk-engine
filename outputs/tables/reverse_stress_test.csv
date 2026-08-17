@@ -1,0 +1,8 @@
+company,target_dd,equity_decline_needed_pct,equity_note,debt_increase_needed_pct,debt_note
+ONGC,3.0,,Not reached within tested range (up to -95% equity); DD at -95% is still 4.40,,Not reached within tested range (up to +300% debt); DD at +300% is still 4.99
+IOC,3.0,,Not reached within tested range (up to -95% equity); DD at -95% is still 3.83,,Not reached within tested range (up to +300% debt); DD at +300% is still 4.26
+BPCL,3.0,,Not reached within tested range (up to -95% equity); DD at -95% is still 3.56,,Not reached within tested range (up to +300% debt); DD at +300% is still 4.19
+HPCL,3.0,-90.05756691643457,Reached within tested range,,Not reached within tested range (up to +300% debt); DD at +300% is still 3.21
+GAIL,3.0,,Not reached within tested range (up to -95% equity); DD at -95% is still 4.40,,Not reached within tested range (up to +300% debt); DD at +300% is still 5.83
+OIL,3.0,,Not reached within tested range (up to -95% equity); DD at -95% is still 3.42,,Not reached within tested range (up to +300% debt); DD at +300% is still 4.06
+RELIANCE,3.0,,Not reached within tested range (up to -95% equity); DD at -95% is still 5.34,,Not reached within tested range (up to +300% debt); DD at +300% is still 6.98

@@ -1,0 +1,15 @@
+section,level,message
+financials,INFO,No duplicate company-year observations found (35 expected: 7 companies x 5 years).
+financials,INFO,All 35 company-year observations present (7 companies x FY2021-FY2025).
+financials,WARNING,"Balance sheet identity mismatch (>Rs.1cr) for: [['BPCL', 2025, 2]]"
+financials,INFO,"No impossible values (negative assets/debt, non-positive sales) detected."
+financials,INFO,"Negative EBITDA (operating loss) observed - genuine, not a data error: [['HPCL', 2023, -7192]] (HPCL FY23 posted an operating loss during the Russia-Ukraine crude price spike / under-recovery period)."
+financials,INFO,"Missing values by field (not fabricated - left as NaN, downstream ratios using these fields are marked N/A): {'other_income': 20, 'pbt': 15, 'debtor_days': 10, 'inventory_days': 10, 'payable_days': 30}"
+market_data,INFO,All market prices and market caps are positive.
+shares_outstanding_cross_check,INFO,ONGC: shares outstanding cross-check - MktCap/Price = 1258.0 cr vs EquityCapital(FY25)/FaceValue = 1258.0 cr (diff 0.0%)
+shares_outstanding_cross_check,INFO,IOC: shares outstanding cross-check - MktCap/Price = 1412.1 cr vs EquityCapital(FY25)/FaceValue = 1377.2 cr (diff 2.5%)
+shares_outstanding_cross_check,INFO,BPCL: shares outstanding cross-check - MktCap/Price = 433.9 cr vs EquityCapital(FY25)/FaceValue = 427.3 cr (diff 1.5%)
+shares_outstanding_cross_check,INFO,HPCL: shares outstanding cross-check - MktCap/Price = 212.8 cr vs EquityCapital(FY25)/FaceValue = 212.8 cr (diff 0.0%)
+shares_outstanding_cross_check,INFO,GAIL: shares outstanding cross-check - MktCap/Price = 657.5 cr vs EquityCapital(FY25)/FaceValue = 657.5 cr (diff 0.0%)
+shares_outstanding_cross_check,INFO,OIL: shares outstanding cross-check - MktCap/Price = 162.7 cr vs EquityCapital(FY25)/FaceValue = 162.7 cr (diff 0.0%)
+shares_outstanding_cross_check,INFO,RELIANCE: shares outstanding cross-check - MktCap/Price = 1353.3 cr vs EquityCapital(FY25)/FaceValue = 1353.2 cr (diff 0.0%)
